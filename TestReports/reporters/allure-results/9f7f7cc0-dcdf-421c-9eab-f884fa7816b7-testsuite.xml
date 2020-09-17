@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1597307098039' stop='1597307098061'>
+    <name>form submission: As a user, I could verify my form was submirted successfully</name>
+    <title>form submission: As a user, I could verify my form was submirted successfully</title>
+    <test-cases>
+        <test-case start='1597307098040' status='passed' stop='1597307098041'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597307098042' status='broken' stop='1597307098058'>
+            <name>Given I am on tools.qa.com demo site</name>
+            <title>Given I am on tools.qa.com demo site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>browser.maximised is not a function</message>
+                <stack-trace>TypeError: browser.maximised is not a function
+                    at World.&lt;anonymous> (C:\Users\mrmra\OneDrive\Documents\Testing Resource\WEBDRIVERIO\WEBDRIVERIO_CUCUMBER\WEDRIVERIO_BDD_AUTO_TEST\features\stepdefination\/submitForm_steps.js:6:14)
+                    at World.executeSync (C:\Users\mrmra\OneDrive\Documents\Testing Resource\WEBDRIVERIO\WEBDRIVERIO_CUCUMBER\WEDRIVERIO_BDD_AUTO_TEST\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Users\mrmra\OneDrive\Documents\Testing Resource\WEBDRIVERIO\WEBDRIVERIO_CUCUMBER\WEDRIVERIO_BDD_AUTO_TEST\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1597307098059' status='pending' stop='1597307098059'>
+            <name>When I click on form and click practise form</name>
+            <title>When I click on form and click practise form</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597307098059' status='pending' stop='1597307098059'>
+            <name>When I enter Wale and OriOlowo and  wale_oriolowo97@gmail.com and 0111111111</name>
+            <title>When I enter Wale and OriOlowo and  wale_oriolowo97@gmail.com and 0111111111</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597307098059' status='pending' stop='1597307098059'>
+            <name>When I select my gender</name>
+            <title>When I select my gender</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597307098060' status='passed' stop='1597307098060'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

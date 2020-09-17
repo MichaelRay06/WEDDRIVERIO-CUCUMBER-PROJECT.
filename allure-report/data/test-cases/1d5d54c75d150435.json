@@ -1,0 +1,123 @@
+{
+  "uid" : "1d5d54c75d150435",
+  "name" : "Then I should be able to confirm user ID message as bfatogun@yahoo.com",
+  "fullName" : "testing the Zoho site modules: As a user, I can vrify my log in email.Then I should be able to confirm user ID message as bfatogun@yahoo.com",
+  "historyId" : "e850ff5b370901e76b22b1700b41b3eb",
+  "time" : {
+    "start" : 1597192611937,
+    "stop" : 1597192611938,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "testClass",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should be able to confirm user ID message as bfatogun@yahoo.com"
+  }, {
+    "name" : "package",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "78c9555e7b718d3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597192445445,
+        "stop" : 1597192456737,
+        "duration" : 11292
+      }
+    }, {
+      "uid" : "eeb559cbcf0e6f2d",
+      "status" : "broken",
+      "statusDetails" : "element not displayed",
+      "time" : {
+        "start" : 1597192242710,
+        "stop" : 1597192252752,
+        "duration" : 10042
+      }
+    }, {
+      "uid" : "b4a3b8e313ea6f7e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597192100396,
+        "stop" : 1597192100396,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5feea04c3106335",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597191844921,
+        "stop" : 1597191844921,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "67ff7b4bb217eb57",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597191777692,
+        "stop" : 1597191777692,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b39dfa969e689181",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191554387,
+        "stop" : 1597191565726,
+        "duration" : 11339
+      }
+    }, {
+      "uid" : "44d9290b39ccb2d1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597191505581,
+        "stop" : 1597191505581,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d8790924326e1496",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597191394180,
+        "stop" : 1597191394180,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d5d54c75d150435.json",
+  "parameterValues" : [ "chrome" ]
+}

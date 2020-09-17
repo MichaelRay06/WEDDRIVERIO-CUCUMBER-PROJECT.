@@ -1,0 +1,108 @@
+{
+  "uid" : "ba1db64fa4cfa065",
+  "name" : "Given I am on the zoho web  page",
+  "fullName" : "testing the Zoho site modules: As a user, I can vrify my log in email.Given I am on the zoho web  page",
+  "historyId" : "1d35f9a79be20e983f533be65cc04cf7",
+  "time" : {
+    "start" : 1597192608209,
+    "stop" : 1597192610295,
+    "duration" : 2086
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1597192608212,
+        "stop" : 1597192608361,
+        "duration" : 149
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2c48eea10d85dcf9",
+        "name" : "Response",
+        "source" : "2c48eea10d85dcf9.json",
+        "type" : "application/json",
+        "size" : 59
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1597192608364,
+        "stop" : 1597192609290,
+        "duration" : 926
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "dd659c6e53550b9c",
+        "name" : "Request",
+        "source" : "dd659c6e53550b9c.json",
+        "type" : "application/json",
+        "size" : 41
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "testClass",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the zoho web  page"
+  }, {
+    "name" : "package",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba1db64fa4cfa065.json",
+  "parameterValues" : [ "chrome" ]
+}

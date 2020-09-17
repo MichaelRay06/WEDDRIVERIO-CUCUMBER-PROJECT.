@@ -1,0 +1,66 @@
+{
+  "uid" : "ea7a1dd87cf41439",
+  "name" : "When I type in my language as ch",
+  "fullName" : "I could edit my language.: As a user, I can edit my spoken language.When I type in my language as ch",
+  "historyId" : "8453a9cb66782e7ea16f8c2a82104944",
+  "time" : {
+    "start" : 1597191022768,
+    "stop" : 1597191022768,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I type in my language as ch"
+  }, {
+    "name" : "package",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9bcf335934413ddb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597190730686,
+        "stop" : 1597190730686,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea7a1dd87cf41439.json",
+  "parameterValues" : [ "chrome" ]
+}

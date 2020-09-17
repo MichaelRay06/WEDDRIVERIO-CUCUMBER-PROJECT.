@@ -1,0 +1,56 @@
+{
+  "uid" : "cc26276b8904762c",
+  "name" : "When I click edit button",
+  "fullName" : "I could edit my language.: As a user, I can edit my spoken language.When I click edit button",
+  "historyId" : "bb89fd44099084eefb2f57849a9f4688",
+  "time" : {
+    "start" : 1597190730685,
+    "stop" : 1597190730686,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click edit button"
+  }, {
+    "name" : "package",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc26276b8904762c.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,176 @@
+{
+  "uid" : "c42e795ade58ce8a",
+  "name" : "Given I am on the login page",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language.Given I am on the login page",
+  "historyId" : "6a0a231e812826f8399e0051f1094a96",
+  "time" : {
+    "start" : 1597167418649,
+    "stop" : 1597167429289,
+    "duration" : 10640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1597167418650,
+        "stop" : 1597167418681,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e22ab2dab04a8384",
+        "name" : "Response",
+        "source" : "e22ab2dab04a8384.json",
+        "type" : "application/json",
+        "size" : 59
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1597167418682,
+        "stop" : 1597167419287,
+        "duration" : 605
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cd4695c220334fa5",
+        "name" : "Request",
+        "source" : "cd4695c220334fa5.json",
+        "type" : "application/json",
+        "size" : 41
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "30a72139947e10fe",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1597167338340,
+        "stop" : 1597167368878,
+        "duration" : 30538
+      }
+    }, {
+      "uid" : "ca3a38b35362599d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597167114336,
+        "stop" : 1597167125432,
+        "duration" : 11096
+      }
+    }, {
+      "uid" : "8e30dbce0a13c0d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597166108770,
+        "stop" : 1597166119212,
+        "duration" : 10442
+      }
+    }, {
+      "uid" : "8d44699d05164cd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597165784723,
+        "stop" : 1597165795287,
+        "duration" : 10564
+      }
+    }, {
+      "uid" : "6f35b0e1a056ae4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597165495302,
+        "stop" : 1597165535768,
+        "duration" : 40466
+      }
+    }, {
+      "uid" : "f9389042119bc38f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597165144982,
+        "stop" : 1597165155910,
+        "duration" : 10928
+      }
+    }, {
+      "uid" : "7675692a0b85d188",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597164565117,
+        "stop" : 1597164575622,
+        "duration" : 10505
+      }
+    }, {
+      "uid" : "b349348c97c96d20",
+      "status" : "broken",
+      "statusDetails" : "Step \"Given I am on the login page\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1597164307829,
+        "stop" : 1597164307830,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c42e795ade58ce8a.json",
+  "parameterValues" : [ "chrome" ]
+}

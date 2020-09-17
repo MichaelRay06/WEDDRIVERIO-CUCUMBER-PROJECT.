@@ -1,0 +1,281 @@
+[ {
+  "uid" : "8e71a1d043d527f8",
+  "name" : "When I click submit button with my user email as username and user password as password",
+  "time" : {
+    "start" : 1597191021875,
+    "stop" : 1597191022765,
+    "duration" : 890
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1d5d54c75d150435",
+  "name" : "Then I should be able to confirm user ID message as bfatogun@yahoo.com",
+  "time" : {
+    "start" : 1597192611937,
+    "stop" : 1597192611938,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "75b7bd3b6c423de6",
+  "name" : "When I selected my spoken language as <selectedLangText>",
+  "time" : {
+    "start" : 1597167430304,
+    "stop" : 1597167430304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d0e228926b5cfced",
+  "name" : "Then I could verify that Deutsch was successfuly Edited",
+  "time" : {
+    "start" : 1597191022769,
+    "stop" : 1597191022769,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b3fa828d36d44a86",
+  "name" : "When I click submit button with my user email as bfatogun@yahoo.com and user password as 54fatogun54",
+  "time" : {
+    "start" : 1597192610295,
+    "stop" : 1597192611937,
+    "duration" : 1642
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "690687093be38bdc",
+  "name" : "When I type in my language as <editedLanguage>",
+  "time" : {
+    "start" : 1597167430304,
+    "stop" : 1597167430304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "51488f3b0b3af5eb",
+  "name" : "When I click submit button with my user email as username and user password as password",
+  "time" : {
+    "start" : 1597167429289,
+    "stop" : 1597167430304,
+    "duration" : 1015
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "16c9bcffb71ce22d",
+  "name" : "When I click edit button",
+  "time" : {
+    "start" : 1597167430304,
+    "stop" : 1597167430304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "824dd5707789101b",
+  "name" : "Then I could verify that <mylanguage> was successfuly Edited",
+  "time" : {
+    "start" : 1597167430305,
+    "stop" : 1597167430305,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c583952b7f925f01",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1597167418552,
+    "stop" : 1597167418552,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "946667812eb9194c",
+  "name" : "When I click on select language text box",
+  "time" : {
+    "start" : 1597167430304,
+    "stop" : 1597167430304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a53c2c5bdd17d716",
+  "name" : "When I click on select language text box",
+  "time" : {
+    "start" : 1597191022768,
+    "stop" : 1597191022768,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "36d2191e282fc3f2",
+  "name" : "When I click submit button with my user email as mr.raymich50@gmail.com and user password as 54SonsofGod54",
+  "time" : {
+    "start" : 1597192746274,
+    "stop" : 1597192748494,
+    "duration" : 2220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18f1ea819f8a3b34",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1597191010673,
+    "stop" : 1597191021875,
+    "duration" : 11202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "674d7054f7b63c5a",
+  "name" : "When I click submit button with my user email as username and user password as password",
+  "time" : {
+    "start" : 1597167417403,
+    "stop" : 1597167418551,
+    "duration" : 1148
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cc7d29759cab5f3d",
+  "name" : "When I save my profile",
+  "time" : {
+    "start" : 1597191022769,
+    "stop" : 1597191022769,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "dd0b2e1dee4053dc",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1597191022769,
+    "stop" : 1597191022770,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c9fd4c6ae7bbf07",
+  "name" : "Given I am on the zoho web  page",
+  "time" : {
+    "start" : 1597192744190,
+    "stop" : 1597192746273,
+    "duration" : 2083
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db9bc4587fa7349a",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1597192759716,
+    "stop" : 1597192759717,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5aa35da58860aba",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1597167430305,
+    "stop" : 1597167430305,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c42e795ade58ce8a",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1597167418649,
+    "stop" : 1597167429289,
+    "duration" : 10640
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10efd76219f961bc",
+  "name" : "Then I should be able to confirm user ID message as mr.raymich50@gmail.com",
+  "time" : {
+    "start" : 1597192748494,
+    "stop" : 1597192759716,
+    "duration" : 11222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c743c9c3d4509cf5",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1597167405994,
+    "stop" : 1597167417403,
+    "duration" : 11409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38cf2dcf3e706f62",
+  "name" : "When I selected my spoken language as Deutsch",
+  "time" : {
+    "start" : 1597191022768,
+    "stop" : 1597191022768,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "de25f1c33a8e30f0",
+  "name" : "When I click edit button",
+  "time" : {
+    "start" : 1597191022765,
+    "stop" : 1597191022767,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4334d5e9ebcec2c5",
+  "name" : "When I save my profile",
+  "time" : {
+    "start" : 1597167430304,
+    "stop" : 1597167430304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d3059290f15391e0",
+  "name" : "Then I should see a flash message",
+  "time" : {
+    "start" : 1597167418551,
+    "stop" : 1597167418551,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ea7a1dd87cf41439",
+  "name" : "When I type in my language as ch",
+  "time" : {
+    "start" : 1597191022768,
+    "stop" : 1597191022768,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

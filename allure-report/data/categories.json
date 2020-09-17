@@ -1,0 +1,65 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element not interactable\n                  (Session info: chrome=84.0.4147.105)",
+      "children" : [ {
+        "name" : "When I click submit button with my user email as username and user password as password",
+        "uid" : "674d7054f7b63c5a",
+        "parentUid" : "eacf260da602bcfc69ba48139cf23232",
+        "status" : "broken",
+        "time" : {
+          "start" : 1597167417403,
+          "stop" : 1597167418551,
+          "duration" : 1148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I click submit button with my user email as username and user password as password",
+        "uid" : "51488f3b0b3af5eb",
+        "parentUid" : "eacf260da602bcfc69ba48139cf23232",
+        "status" : "broken",
+        "time" : {
+          "start" : 1597167429289,
+          "stop" : 1597167430304,
+          "duration" : 1015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I click submit button with my user email as username and user password as password",
+        "uid" : "8e71a1d043d527f8",
+        "parentUid" : "eacf260da602bcfc69ba48139cf23232",
+        "status" : "broken",
+        "time" : {
+          "start" : 1597191021875,
+          "stop" : 1597191022765,
+          "duration" : 890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I click submit button with my user email as bfatogun@yahoo.com and user password as 54fatogun54",
+        "uid" : "b3fa828d36d44a86",
+        "parentUid" : "eacf260da602bcfc69ba48139cf23232",
+        "status" : "broken",
+        "time" : {
+          "start" : 1597192610295,
+          "stop" : 1597192611937,
+          "duration" : 1642
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "eacf260da602bcfc69ba48139cf23232"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "cc7d29759cab5f3d",
+  "name" : "When I save my profile",
+  "fullName" : "I could edit my language.: As a user, I can edit my spoken language.When I save my profile",
+  "historyId" : "ae5c46fe42317ef53025fc3a7939da91",
+  "time" : {
+    "start" : 1597191022769,
+    "stop" : 1597191022769,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I save my profile"
+  }, {
+    "name" : "package",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e75629301832c906",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597190730687,
+        "stop" : 1597190730687,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc7d29759cab5f3d.json",
+  "parameterValues" : [ "chrome" ]
+}

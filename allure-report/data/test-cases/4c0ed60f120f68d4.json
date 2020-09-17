@@ -1,0 +1,58 @@
+{
+  "uid" : "4c0ed60f120f68d4",
+  "name" : "When I click submit button with my user email as username and user password as password",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language.When I click submit button with my user email as username and user password as password",
+  "historyId" : "cd3be53ddb65e10bf8de8ec68dfd8f0",
+  "time" : {
+    "start" : 1597164307830,
+    "stop" : 1597164307831,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Step \"When I click submit button with my user email as username and user password as password\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+  "statusTrace" : "undefined:undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click submit button with my user email as username and user password as password"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c0ed60f120f68d4.json",
+  "parameterValues" : [ "chrome" ]
+}

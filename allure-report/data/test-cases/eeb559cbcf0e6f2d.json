@@ -1,0 +1,367 @@
+{
+  "uid" : "eeb559cbcf0e6f2d",
+  "name" : "Then I should be able to confirm user ID message as bfatogun@yahoo.com",
+  "fullName" : "testing the Zoho site modules: As a user, I can vrify my log in email.Then I should be able to confirm user ID message as bfatogun@yahoo.com",
+  "historyId" : "e850ff5b370901e76b22b1700b41b3eb",
+  "time" : {
+    "start" : 1597192242710,
+    "stop" : 1597192252752,
+    "duration" : 10042
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element not displayed",
+  "statusTrace" : "Error: element not displayed\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\commands\\browser\\waitUntil.js:34:15\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at Element.waitForDisplayed (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\commands\\element\\waitForDisplayed.js:14:15)\n                    at Element.wrapCommandFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:54:17)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:21:57)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.waitForDisplayed (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at ElementUtils.isDisplayed (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\utitity\\/ElementUtils.js:30:17)\n                    at LoginConfirmPage.clickLoginImage (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\pageobjects\\/loginConfirm.page.js:10:22)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/userID_steps.js:31:22)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element not displayed",
+    "statusTrace" : "Error: element not displayed\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\commands\\browser\\waitUntil.js:34:15\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at Element.waitForDisplayed (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\commands\\element\\waitForDisplayed.js:14:15)\n                    at Element.wrapCommandFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:54:17)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:21:57)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.waitForDisplayed (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at ElementUtils.isDisplayed (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\utitity\\/ElementUtils.js:30:17)\n                    at LoginConfirmPage.clickLoginImage (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\pageobjects\\/loginConfirm.page.js:10:22)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/userID_steps.js:31:22)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192242711,
+        "stop" : 1597192242732,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "85bec9ed8c8b0c4c",
+        "name" : "Request",
+        "source" : "85bec9ed8c8b0c4c.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "b9a26f78ee0a9553",
+        "name" : "Response",
+        "source" : "b9a26f78ee0a9553.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192242735,
+        "stop" : 1597192242752,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4edeff93fc56fbbf",
+        "name" : "Request",
+        "source" : "4edeff93fc56fbbf.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "6081397fe5264f2b",
+        "name" : "Response",
+        "source" : "6081397fe5264f2b.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192243735,
+        "stop" : 1597192243754,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8851ffbc373865be",
+        "name" : "Request",
+        "source" : "8851ffbc373865be.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "8c5d4adf37fbb80f",
+        "name" : "Response",
+        "source" : "8c5d4adf37fbb80f.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192244738,
+        "stop" : 1597192244755,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5ff070a9bd93f8fb",
+        "name" : "Request",
+        "source" : "5ff070a9bd93f8fb.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "9f093fbf1d95def0",
+        "name" : "Response",
+        "source" : "9f093fbf1d95def0.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192245735,
+        "stop" : 1597192245750,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c0f70c56da23bdfb",
+        "name" : "Request",
+        "source" : "c0f70c56da23bdfb.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "30712baea3fc3749",
+        "name" : "Response",
+        "source" : "30712baea3fc3749.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192246736,
+        "stop" : 1597192246815,
+        "duration" : 79
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f3d4bc82dffc146c",
+        "name" : "Request",
+        "source" : "f3d4bc82dffc146c.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "c7cf9a4be4a5a601",
+        "name" : "Response",
+        "source" : "c7cf9a4be4a5a601.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192247736,
+        "stop" : 1597192247751,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3993544b0b971d07",
+        "name" : "Request",
+        "source" : "3993544b0b971d07.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "cb53121965237c89",
+        "name" : "Response",
+        "source" : "cb53121965237c89.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192248736,
+        "stop" : 1597192248864,
+        "duration" : 128
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "30630b46f65be745",
+        "name" : "Request",
+        "source" : "30630b46f65be745.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "5450ba27ae181974",
+        "name" : "Response",
+        "source" : "5450ba27ae181974.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192249736,
+        "stop" : 1597192249752,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a1797c2af39e4157",
+        "name" : "Request",
+        "source" : "a1797c2af39e4157.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "ce017c112a75a4ef",
+        "name" : "Response",
+        "source" : "ce017c112a75a4ef.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192250736,
+        "stop" : 1597192250789,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f0831c16f2e3d616",
+        "name" : "Request",
+        "source" : "f0831c16f2e3d616.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "87f5467b9bc3a52b",
+        "name" : "Response",
+        "source" : "87f5467b9bc3a52b.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597192251738,
+        "stop" : 1597192251755,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3ada824f71fbc43a",
+        "name" : "Request",
+        "source" : "3ada824f71fbc43a.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "8b032592b57fee4c",
+        "name" : "Response",
+        "source" : "8b032592b57fee4c.json",
+        "type" : "application/json",
+        "size" : 1054
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "hasContent" : true,
+    "attachmentsCount" : 22,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "testClass",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should be able to confirm user ID message as bfatogun@yahoo.com"
+  }, {
+    "name" : "package",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eeb559cbcf0e6f2d.json",
+  "parameterValues" : [ "chrome" ]
+}

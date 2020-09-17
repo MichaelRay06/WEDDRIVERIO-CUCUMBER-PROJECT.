@@ -1,0 +1,240 @@
+{
+  "uid" : "8c9fd4c6ae7bbf07",
+  "name" : "Given I am on the zoho web  page",
+  "fullName" : "testing the Zoho site modules: As a user, I can vrify my log in email.Given I am on the zoho web  page",
+  "historyId" : "1d35f9a79be20e983f533be65cc04cf7",
+  "time" : {
+    "start" : 1597192744190,
+    "stop" : 1597192746273,
+    "duration" : 2083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1597192744193,
+        "stop" : 1597192744335,
+        "duration" : 142
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "816e9f1ecf98c94e",
+        "name" : "Response",
+        "source" : "816e9f1ecf98c94e.json",
+        "type" : "application/json",
+        "size" : 59
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1597192744340,
+        "stop" : 1597192745272,
+        "duration" : 932
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "477b15d376975fda",
+        "name" : "Request",
+        "source" : "477b15d376975fda.json",
+        "type" : "application/json",
+        "size" : 41
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "testClass",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the zoho web  page"
+  }, {
+    "name" : "package",
+    "value" : "testing the Zoho site modules: As a user, I can vrify my log in email"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6dfba1534ff6776b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597192611955,
+        "stop" : 1597192613594,
+        "duration" : 1639
+      }
+    }, {
+      "uid" : "ba1db64fa4cfa065",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597192608209,
+        "stop" : 1597192610295,
+        "duration" : 2086
+      }
+    }, {
+      "uid" : "6d6d059e4fd4d69e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597192441421,
+        "stop" : 1597192443475,
+        "duration" : 2054
+      }
+    }, {
+      "uid" : "f66c94a5d6ba4db1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597192218642,
+        "stop" : 1597192220760,
+        "duration" : 2118
+      }
+    }, {
+      "uid" : "51116482edc4264",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597192100417,
+        "stop" : 1597192102474,
+        "duration" : 2057
+      }
+    }, {
+      "uid" : "667acb4ae039e60f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597192073785,
+        "stop" : 1597192098806,
+        "duration" : 25021
+      }
+    }, {
+      "uid" : "e067a06429372c14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191844941,
+        "stop" : 1597191846568,
+        "duration" : 1627
+      }
+    }, {
+      "uid" : "99e17a68ab91e1f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191841071,
+        "stop" : 1597191843122,
+        "duration" : 2051
+      }
+    }, {
+      "uid" : "b37828a8cb0ee8ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191777716,
+        "stop" : 1597191779010,
+        "duration" : 1294
+      }
+    }, {
+      "uid" : "2d3be3f97e2d8155",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191772067,
+        "stop" : 1597191774163,
+        "duration" : 2096
+      }
+    }, {
+      "uid" : "e0ece151c0290564",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191565753,
+        "stop" : 1597191567069,
+        "duration" : 1316
+      }
+    }, {
+      "uid" : "b6af9368624c4c19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191550461,
+        "stop" : 1597191552540,
+        "duration" : 2079
+      }
+    }, {
+      "uid" : "5eda37da1588dc19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191505599,
+        "stop" : 1597191506843,
+        "duration" : 1244
+      }
+    }, {
+      "uid" : "368d8dd8a9b20f47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191501891,
+        "stop" : 1597191503707,
+        "duration" : 1816
+      }
+    }, {
+      "uid" : "45aa506e4a505900",
+      "status" : "broken",
+      "statusDetails" : "ElementUtils is not defined",
+      "time" : {
+        "start" : 1597191394194,
+        "stop" : 1597191397408,
+        "duration" : 3214
+      }
+    }, {
+      "uid" : "22b5fc2723bfb197",
+      "status" : "broken",
+      "statusDetails" : "ElementUtils is not defined",
+      "time" : {
+        "start" : 1597191392384,
+        "stop" : 1597191394179,
+        "duration" : 1795
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c9fd4c6ae7bbf07.json",
+  "parameterValues" : [ "chrome" ]
+}

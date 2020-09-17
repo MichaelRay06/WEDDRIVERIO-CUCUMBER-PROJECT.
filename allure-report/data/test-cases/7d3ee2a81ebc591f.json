@@ -1,0 +1,311 @@
+{
+  "uid" : "7d3ee2a81ebc591f",
+  "name" : "When I click submit button with my user email as username and user password as password",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language.When I click submit button with my user email as username and user password as password",
+  "historyId" : "cd3be53ddb65e10bf8de8ec68dfd8f0",
+  "time" : {
+    "start" : 1597164575622,
+    "stop" : 1597164580895,
+    "duration" : 5273
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <span>...</span> is not clickable at point (763, 420). Other element would receive the click: <div class=\"blur_elem blur\"></div>\n                  (Session info: chrome=84.0.4147.105)",
+  "statusTrace" : "element click intercepted: Element <span>...</span> is not clickable at point (763, 420). Other element would receive the click: <div class=\"blur_elem blur\"></div>\n                  (Session info: chrome=84.0.4147.105)\n                    at getErrorFromResponseBody (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\utils.js:121:10)\n                    at WebDriverRequest._request (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\request.js:149:56)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.click (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at ElementUtils.doClick (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\utitity\\/ElementUtils.js:20:17)\n                    at xxzohoHomePage.setEmail (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\pageobjects\\/xxzohoHomePage.js:13:22)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/zoho.test_steps.js:16:20)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element click intercepted: Element <span>...</span> is not clickable at point (763, 420). Other element would receive the click: <div class=\"blur_elem blur\"></div>\n                  (Session info: chrome=84.0.4147.105)",
+    "statusTrace" : "element click intercepted: Element <span>...</span> is not clickable at point (763, 420). Other element would receive the click: <div class=\"blur_elem blur\"></div>\n                  (Session info: chrome=84.0.4147.105)\n                    at getErrorFromResponseBody (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\utils.js:121:10)\n                    at WebDriverRequest._request (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\request.js:149:56)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.click (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at ElementUtils.doClick (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\utitity\\/ElementUtils.js:20:17)\n                    at xxzohoHomePage.setEmail (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\pageobjects\\/xxzohoHomePage.js:13:22)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/zoho.test_steps.js:16:20)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597164575622,
+        "stop" : 1597164575682,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3d54e7f8aa65c3de",
+        "name" : "Request",
+        "source" : "3d54e7f8aa65c3de.json",
+        "type" : "application/json",
+        "size" : 62
+      }, {
+        "uid" : "b82103c356d61e07",
+        "name" : "Response",
+        "source" : "b82103c356d61e07.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1597164575686,
+        "stop" : 1597164575823,
+        "duration" : 137
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7b1a98c846cc16b7",
+        "name" : "Request",
+        "source" : "7b1a98c846cc16b7.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "d086558d6c922170",
+        "name" : "Response",
+        "source" : "d086558d6c922170.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1597164575823,
+        "stop" : 1597164575840,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "66aed5fc2af1574b",
+        "name" : "Request",
+        "source" : "66aed5fc2af1574b.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "af4954eed3616e96",
+        "name" : "Response",
+        "source" : "af4954eed3616e96.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597164575840,
+        "stop" : 1597164575987,
+        "duration" : 147
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4b1b0938b3ec31f5",
+        "name" : "Request",
+        "source" : "4b1b0938b3ec31f5.json",
+        "type" : "application/json",
+        "size" : 62
+      }, {
+        "uid" : "208285faee686931",
+        "name" : "Response",
+        "source" : "208285faee686931.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1597164575990,
+        "stop" : 1597164576025,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a2da1e379b821881",
+        "name" : "Request",
+        "source" : "a2da1e379b821881.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "a4960d789a755bca",
+        "name" : "Response",
+        "source" : "a4960d789a755bca.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/1aa2172d-8082-430c-b0b3-bb3b871248c8/clear",
+      "time" : {
+        "start" : 1597164576025,
+        "stop" : 1597164576070,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/1aa2172d-8082-430c-b0b3-bb3b871248c8/value",
+      "time" : {
+        "start" : 1597164576071,
+        "stop" : 1597164576550,
+        "duration" : 479
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "20355af362fd1d53",
+        "name" : "Request",
+        "source" : "20355af362fd1d53.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1597164576550,
+        "stop" : 1597164576568,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7128dfc4a5e04cb6",
+        "name" : "Request",
+        "source" : "7128dfc4a5e04cb6.json",
+        "type" : "application/json",
+        "size" : 58
+      }, {
+        "uid" : "6754beb363c0c397",
+        "name" : "Response",
+        "source" : "6754beb363c0c397.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1597164576572,
+        "stop" : 1597164576592,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "78df90b0c99795bb",
+        "name" : "Request",
+        "source" : "78df90b0c99795bb.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "43dfc777f18bbf4d",
+        "name" : "Response",
+        "source" : "43dfc777f18bbf4d.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/230b7d47-9fb3-42dc-8203-11214229d16c/click",
+      "time" : {
+        "start" : 1597164576592,
+        "stop" : 1597164580895,
+        "duration" : 4303
+      },
+      "status" : "broken",
+      "statusMessage" : "element click intercepted: Element <span>...</span> is not clickable at point (763, 420). Other element would receive the click: <div class=\"blur_elem blur\"></div>\n                  (Session info: chrome=84.0.4147.105)\n                    at getErrorFromResponseBody (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\utils.js:121:10)\n                    at WebDriverRequest._request (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\request.js:149:56)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.click (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at ElementUtils.doClick (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\utitity\\/ElementUtils.js:20:17)\n                    at xxzohoHomePage.setEmail (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\pageobjects\\/xxzohoHomePage.js:13:22)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/zoho.test_steps.js:16:20)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "hasContent" : true,
+    "attachmentsCount" : 15,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click submit button with my user email as username and user password as password"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d3ee2a81ebc591f.json",
+  "parameterValues" : [ "chrome" ]
+}

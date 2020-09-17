@@ -1,0 +1,56 @@
+{
+  "uid" : "ee0531a45367b7ea",
+  "name" : "Then I could verify that Deutsch was successfuly Edited",
+  "fullName" : "I could edit my language.: As a user, I can edit my spoken language.Then I could verify that Deutsch was successfuly Edited",
+  "historyId" : "bd8b9b28143fc554d373c9a86d34e137",
+  "time" : {
+    "start" : 1597190730687,
+    "stop" : 1597190730687,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I could verify that Deutsch was successfuly Edited"
+  }, {
+    "name" : "package",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee0531a45367b7ea.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,108 @@
+{
+  "uid" : "30a72139947e10fe",
+  "name" : "Given I am on the login page",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language.Given I am on the login page",
+  "historyId" : "6a0a231e812826f8399e0051f1094a96",
+  "time" : {
+    "start" : 1597167338340,
+    "stop" : 1597167368878,
+    "duration" : 30538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "chrome not reachable\n                  (Session info: chrome=84.0.4147.105)",
+  "statusTrace" : "chrome not reachable\n                  (Session info: chrome=84.0.4147.105)\n                    at getErrorFromResponseBody (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\utils.js:121:10)\n                    at WebDriverRequest._request (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\request.js:149:56)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Browser.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.maximizeWindow (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/zoho.test_steps.js:9:13)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "chrome not reachable\n                  (Session info: chrome=84.0.4147.105)",
+    "statusTrace" : "chrome not reachable\n                  (Session info: chrome=84.0.4147.105)\n                    at getErrorFromResponseBody (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\utils.js:121:10)\n                    at WebDriverRequest._request (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\request.js:149:56)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Browser.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.maximizeWindow (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/zoho.test_steps.js:9:13)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1597167338341,
+        "stop" : 1597167368878,
+        "duration" : 30537
+      },
+      "status" : "broken",
+      "statusMessage" : "chrome not reachable\n                  (Session info: chrome=84.0.4147.105)\n                    at getErrorFromResponseBody (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\utils.js:121:10)\n                    at WebDriverRequest._request (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\request.js:149:56)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Browser.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.maximizeWindow (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/zoho.test_steps.js:9:13)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1597167364801,
+          "stop" : 1597167368878,
+          "duration" : 4077
+        },
+        "status" : "broken",
+        "statusMessage" : "chrome not reachable\n                  (Session info: chrome=84.0.4147.105)\n                    at getErrorFromResponseBody (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\utils.js:121:10)\n                    at WebDriverRequest._request (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\webdriver\\build\\request.js:149:56)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Browser.runCommandWithHooks (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.maximizeWindow (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at World.<anonymous> (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\features\\step-definitions\\/zoho.test_steps.js:9:13)\n                    at World.executeSync (C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\mrmra\\OneDrive\\Documents\\Testing Resource\\WEBDRIVERIO\\WEBDRIVERIO_CUCUMBER\\WEDRIVERIO_BDD_AUTO_TEST\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "9bd13bb54a163d72",
+          "name" : "Request",
+          "source" : "9bd13bb54a163d72.json",
+          "type" : "application/json",
+          "size" : 62
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30a72139947e10fe.json",
+  "parameterValues" : [ "chrome" ]
+}

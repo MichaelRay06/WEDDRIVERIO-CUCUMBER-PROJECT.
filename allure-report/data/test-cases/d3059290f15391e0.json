@@ -1,0 +1,172 @@
+{
+  "uid" : "d3059290f15391e0",
+  "name" : "Then I should see a flash message",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message",
+  "historyId" : "889d05b9dccf39cfec1dd297fd26854b",
+  "time" : {
+    "start" : 1597167418551,
+    "stop" : 1597167418551,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db4f8f38b6d47bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597167338153,
+        "stop" : 1597167338153,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d4ebeee1a3727d38",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597167114271,
+        "stop" : 1597167114271,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d530ab75b5582afc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597166108712,
+        "stop" : 1597166108713,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "594f8d118b0fc971",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597165784701,
+        "stop" : 1597165784701,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "68a5fb72ddead9e9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597165495241,
+        "stop" : 1597165495242,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "558387e52c755372",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597165144957,
+        "stop" : 1597165144958,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "460ee7fb2f334232",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597164565086,
+        "stop" : 1597164565087,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3ef69c4f500fe64c",
+      "status" : "broken",
+      "statusDetails" : "Step \"Then I should see a flash message\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1597164307720,
+        "stop" : 1597164307721,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4d701c8041c39467",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597065080231,
+        "stop" : 1597065085797,
+        "duration" : 5566
+      }
+    }, {
+      "uid" : "488f98afee08ac4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597064929130,
+        "stop" : 1597064934924,
+        "duration" : 5794
+      }
+    }, {
+      "uid" : "42a5a995c7df6149",
+      "status" : "broken",
+      "statusDetails" : "element (\"//img[@id='headder_thumb_pic']\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1597064868440,
+        "stop" : 1597064878572,
+        "duration" : 10132
+      }
+    }, {
+      "uid" : "c34aa4b735086723",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597063878885,
+        "stop" : 1597063885071,
+        "duration" : 6186
+      }
+    }, {
+      "uid" : "1c9f70c5c629014c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597056392470,
+        "stop" : 1597056392470,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f8b0bc55fe33e580",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597056353759,
+        "stop" : 1597056353760,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3059290f15391e0.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "dd0b2e1dee4053dc",
+  "name" : "Hook",
+  "fullName" : "I could edit my language.: As a user, I can edit my spoken language.Hook",
+  "historyId" : "8cdab6f6f587a530e3f5d39771be5304",
+  "time" : {
+    "start" : 1597191022769,
+    "stop" : 1597191022770,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "I could edit my language.: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e82aca91474b72f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597191010671,
+        "stop" : 1597191010672,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "32a4142e1e452d94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597190730687,
+        "stop" : 1597190730688,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5ec1d2fecd5889a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597190730676,
+        "stop" : 1597190730678,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd0b2e1dee4053dc.json",
+  "parameterValues" : [ "chrome" ]
+}

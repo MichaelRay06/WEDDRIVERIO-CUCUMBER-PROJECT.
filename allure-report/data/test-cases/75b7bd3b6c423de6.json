@@ -1,0 +1,122 @@
+{
+  "uid" : "75b7bd3b6c423de6",
+  "name" : "When I selected my spoken language as <selectedLangText>",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language.When I selected my spoken language as <selectedLangText>",
+  "historyId" : "acd28d82ca95c24bd447bfb79ec9bf44",
+  "time" : {
+    "start" : 1597167430304,
+    "stop" : 1597167430304,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I selected my spoken language as <selectedLangText>"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can edit my spoken language"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4d8309a1c7655c12",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597167368879,
+        "stop" : 1597167368879,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "866e537a3758da4c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597167185433,
+        "stop" : 1597167185433,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "76b4ea82c2e9298e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597166124585,
+        "stop" : 1597166124585,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8bc4eeac7d0e13dd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597165800239,
+        "stop" : 1597165800239,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1af93ca89e6b502f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597165536771,
+        "stop" : 1597165536771,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d0d08097a2b15f38",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597165160722,
+        "stop" : 1597165160722,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "90aa6f6f40db6a9a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597164580897,
+        "stop" : 1597164580897,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "286f0aa998a280a8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1597164307832,
+        "stop" : 1597164307832,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75b7bd3b6c423de6.json",
+  "parameterValues" : [ "chrome" ]
+}

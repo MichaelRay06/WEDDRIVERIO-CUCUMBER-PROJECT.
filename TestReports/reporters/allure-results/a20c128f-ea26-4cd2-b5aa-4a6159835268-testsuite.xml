@@ -1,0 +1,149 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1597308642426' stop='1597308681554'>
+    <name>form submission: As a user, I could verify my form was submirted successfully</name>
+    <title>form submission: As a user, I could verify my form was submirted successfully</title>
+    <test-cases>
+        <test-case start='1597308642427' status='passed' stop='1597308642433'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597308642433' status='passed' stop='1597308680340'>
+            <name>Given I am on tools.qa.com demo site</name>
+            <title>Given I am on tools.qa.com demo site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1597308642438' status='passed' stop='1597308642612'>
+                    <name>POST /session/:sessionId/window/maximize</name>
+                    <title>POST /session/:sessionId/window/maximize</title>
+                    <attachments>
+                        <attachment title='Response' source='9f65882c-c789-4c31-bd9b-1570a97bef42-attachment.json' type='application/json' size='59'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1597308642615' status='passed' stop='1597308670338'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='b7a39480-8633-4413-a75d-b65ff7a18f8b-attachment.json' type='application/json' size='42'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1597308680340' status='broken' stop='1597308681552'>
+            <name>When I click on form and click practise form</name>
+            <title>When I click on form and click practise form</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1597308680341' status='passed' stop='1597308680661'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='386153b6-fc5c-4848-a10e-5fb20a25f040-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='8139383b-6f99-411e-ab67-f88a068edc89-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1597308680767' status='passed' stop='1597308680987'>
+                    <name>POST /session/:sessionId/execute/sync</name>
+                    <title>POST /session/:sessionId/execute/sync</title>
+                    <attachments>
+                        <attachment title='Request' source='a2c6b844-efc6-4f49-91e4-a39776619cc3-attachment.json' type='application/json' size='5306'/>
+                        <attachment title='Response' source='7acb5b9e-2d9c-4e61-8c4f-a813e4c892d6-attachment.json' type='application/json' size='4'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1597308680988' status='passed' stop='1597308681395'>
+                    <name>POST /session/:sessionId/element/71057ab0-eed3-4d5b-914d-93d547822c77/click</name>
+                    <title>POST /session/:sessionId/element/71057ab0-eed3-4d5b-914d-93d547822c77/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1597308681509' status='passed' stop='1597308681540'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='d0977397-e34b-4ea4-9f61-6c1a3b2d467f-attachment.json' type='application/json' size='67'/>
+                        <attachment title='Response' source='b21c9811-5939-4e5e-8bdf-0ead209fbb4b-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>practiseForm.waitForDiaplayed is not a function</message>
+                <stack-trace>TypeError: practiseForm.waitForDiaplayed is not a function
+                    at World.&lt;anonymous> (C:\Users\mrmra\OneDrive\Documents\Testing Resource\WEBDRIVERIO\WEBDRIVERIO_CUCUMBER\WEDRIVERIO_BDD_AUTO_TEST\features\stepdefination\/submitForm_steps.js:17:14)
+                    at World.executeSync (C:\Users\mrmra\OneDrive\Documents\Testing Resource\WEBDRIVERIO\WEBDRIVERIO_CUCUMBER\WEDRIVERIO_BDD_AUTO_TEST\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Users\mrmra\OneDrive\Documents\Testing Resource\WEBDRIVERIO\WEBDRIVERIO_CUCUMBER\WEDRIVERIO_BDD_AUTO_TEST\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1597308681552' status='pending' stop='1597308681552'>
+            <name>When I enter Wale and OriOlowo and  wale_oriolowo97@gmail.com and 0111111111</name>
+            <title>When I enter Wale and OriOlowo and  wale_oriolowo97@gmail.com and 0111111111</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597308681552' status='pending' stop='1597308681553'>
+            <name>When I select my gender</name>
+            <title>When I select my gender</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597308681553' status='passed' stop='1597308681553'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
